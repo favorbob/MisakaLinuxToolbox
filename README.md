@@ -11,9 +11,6 @@ wget -N https://cdn.jsdelivr.net/gh/Misaka-blog/MisakaLinuxToolbox@master/Misaka
 
 快捷方式 `bash MisakaToolbox.sh`
 
-## 赞助我们
-
-
 ## 来自姐姐大人的更新日志
 
 Ver 2.1.2 增加CloudFlare Argo Tunnel一键脚本
